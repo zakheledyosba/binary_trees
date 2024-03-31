@@ -2,7 +2,8 @@
 
 
 /**
- * binary_tree_postorder - goes through the binary tree using in-order traversal.
+ * binary_tree_postorder - goes through the binary
+ * tree using in-order traversal.
  * @tree: is a pointer to the root node of the tree to traverse
  * @func:is apointer to a function to call for each node.
 */
